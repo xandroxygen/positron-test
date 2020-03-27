@@ -1,0 +1,9 @@
+groups:
+  prod:
+    environments: "dev-*"
+    build: "cg build -e dev-1 -t %t"
+  beta:
+    environments: 
+      - "other-1"
+    build: "cg build -e other-1 -t %t"
+deploy: "cg deploy -e %e -u xmoffatt -t %t"
