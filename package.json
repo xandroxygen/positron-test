@@ -1,0 +1,14 @@
+{
+  "name": "positron-test",
+  "version": "1.0.0",
+  "description": "Test repo for the positron tool",
+  "main": "index.js",
+  "author": "Xander Moffatt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.15.3"
+  }
+}

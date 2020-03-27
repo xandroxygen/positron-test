@@ -1,0 +1,14 @@
+app:
+  name: positron-test
+  region: us-west-2
+  vpc_cluster: inseng-dev
+  instance_pools:
+    web:
+      instance_type: t3.micro
+      max_size: 1
+      min_size: 1
+  users:
+    xmoffatt:
+      name: Xander Moffatt
+      email: xmoffatt@instructure.com
+      ssh_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxlaEebwUVcPDxeesjvHYHOCOHnpCs078jUGss3NSQe/91FuiDNy1HjPkmY9GMWE/9qrBOqsntIyqmAXaSKDm5r7qE1/tAgfDGaNpfom/DMY83UEzJjehcJoraP6X2Kepv5hy2A055gdwVS0tg4U6XpDvuOIkNhyl1leD1ZSxPSmOW1L0sYIRP1zxc7ruoH7HGYcNCS1jmC6UrPhcbysEkdHC5LOK0aAQyHrm5OMk37fhnQA+iC8CJ2WQJHZFPXz83yCVZfb9YQx1tsCwcf40/XyC4bFF1FY5oOxhbHoHggaNRXv8wz753etMbtpeBcUrRbk/IM7wBd8aXVvUGsKJ/
