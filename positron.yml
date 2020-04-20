@@ -6,4 +6,7 @@ groups:
     environments: 
       - "other-1"
     build: "cg build -e other-1 -t %t"
+  edge:
+    environments: "edge"
+    build: "cg build -e edge -t %t"
 deploy: "cg deploy -e %e -u xmoffatt -t %t"
