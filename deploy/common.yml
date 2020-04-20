@@ -12,3 +12,7 @@ app:
       name: Xander Moffatt
       email: xmoffatt@instructure.com
       ssh_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxlaEebwUVcPDxeesjvHYHOCOHnpCs078jUGss3NSQe/91FuiDNy1HjPkmY9GMWE/9qrBOqsntIyqmAXaSKDm5r7qE1/tAgfDGaNpfom/DMY83UEzJjehcJoraP6X2Kepv5hy2A055gdwVS0tg4U6XpDvuOIkNhyl1leD1ZSxPSmOW1L0sYIRP1zxc7ruoH7HGYcNCS1jmC6UrPhcbysEkdHC5LOK0aAQyHrm5OMk37fhnQA+iC8CJ2WQJHZFPXz83yCVZfb9YQx1tsCwcf40/XyC4bFF1FY5oOxhbHoHggaNRXv8wz753etMbtpeBcUrRbk/IM7wBd8aXVvUGsKJ/
+    ebattaglia:
+      name: Evan Battaglia
+      email: ebattaglia@instructure.com
+      ssh_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/GH+pV1nW0GDhVF6BT08EnZOK7QxVfWRYIE/MklAAEG90lrXgIivOrFo3B6TVMxPjRtjvUAr9jLaq5R4fHY09X9wLRkVZh2RrDiS47mnHo+PDxtd+Yzydhrpo4EL3CixfW5to2nySBnwlYXfQt6orWb9wc4Hl7WePwsuomsh/1QCr/JTlkxQJEgnfRDiRkmZcHZkyB00z30PYSfkb7hwxej4927MTBYg/yYyQu7C1EAZ0A+nzz3Bfeh6CSlSK3lDM56CGX/Ezkba2Kjui0qzVrAqO2yyhsBh8Pg9LRVe5Zmp/bXopohXk5P8ZY/ZuBfjjSw1gbOGodzKxZk01nuHB ebattaglia
