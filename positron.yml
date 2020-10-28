@@ -10,3 +10,4 @@ groups:
     environments: "edge"
     build: "cg build -e edge -t %t"
 deploy: "cg deploy -e %e -u xmoffatt -t %t"
+required_version: "~0.1.0"
