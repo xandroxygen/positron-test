@@ -5,7 +5,7 @@ groups:
   beta:
     environments: 
       - "other-1"
-    build: "cg build -e other-1 -t %t"
+    build: "cg build -e other-1 -t %t -u bad"
   edge:
     environments: "edge"
     build: "cg build -e edge -t %t"
