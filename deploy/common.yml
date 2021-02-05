@@ -1,5 +1,5 @@
 cloudgate:
-  required_version: "~> 10.0.3"
+  required_version: "~> 11.0"
 app:
   name: positron-test
   region: us-west-2
